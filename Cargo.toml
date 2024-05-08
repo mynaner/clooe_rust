@@ -4,10 +4,10 @@ version = "0.1.0"
 edition = "2021"
 authors = ["994386508@qq.com"]
 license = "MIT"
-homepage = ""
-repository = ""
-documentation = ""
-description = ""
+homepage = "https://github.com/mynaner/clooe_rust"
+repository = "https://github.com/mynaner/clooe_rust"
+documentation = "https://github.com/mynaner/clooe_rust"
+description = "https://github.com/mynaner/clooe_rust"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
